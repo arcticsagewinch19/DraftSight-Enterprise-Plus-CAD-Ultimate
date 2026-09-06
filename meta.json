@@ -1,0 +1,23 @@
+{
+  "repo": "draftsight-enterprise-plus-cad-ultimate",
+  "product": "DraftSight Enterprise Plus CAD Ultimate",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "cad",
+  "topics": [
+    "draftsight-enterprise",
+    "dwg-drafting",
+    "2d-mechanical",
+    "layer-standards",
+    "cad-blocks",
+    "draftsight-setup-failed-fix",
+    "how-to-install-draftsight",
+    "draftsight-windows",
+    "draftsight-desktop-2026",
+    "draftsight-desktop-package"
+  ],
+  "site": "toolix.me"
+}
